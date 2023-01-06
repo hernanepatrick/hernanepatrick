@@ -4,6 +4,7 @@
 <!-- Apresentação meu nome -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&pause=1000&color=FFC745&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Hernane+Patrick;I'm+25+years+old+;I'm+majoring+in+Internet+System;Welcome+to+my+readme!)](https://git.io/typing-svg)
 
+## 🙄
 
 <!-- Minha Estatística de GitHub -->
 <div align="center">  
