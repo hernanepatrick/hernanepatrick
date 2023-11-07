@@ -1,7 +1,6 @@
 # Olá! Eu sou Hernane Patrick - Dev Front-End 🎨🖌️
 
 
-</br>
 ![Hernane GitHub stats](https://github-readme-stats.vercel.app/api?username=hernanepatrick&show_icons=true&theme=dracula)
 
 ## Estudando:
