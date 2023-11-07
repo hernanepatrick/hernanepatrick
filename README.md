@@ -3,7 +3,6 @@
 
 ![Hernane GitHub stats](https://github-readme-stats.vercel.app/api?username=hernanepatrick&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanepatrick)](https://github.com/hernanepatrick/github-readme-stats)
 
 ## Estudando:
 <div style="display:inline_block"></br>
