@@ -2,7 +2,9 @@
 
 
 ![Hernane GitHub stats](https://github-readme-stats.vercel.app/api?username=hernanepatrick&show_icons=true&theme=dracula)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/hernanepatrick/bbfce31e0217a3689c8d961a356cb10d/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanepatrick)](https://github.com/hernanepatrick/github-readme-stats)
+
 ## Estudando:
 <div style="display:inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
